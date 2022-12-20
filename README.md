@@ -1,1 +1,1 @@
-# RSA-Factoring-Challenge
+An unsecured network was sniffed and numbers that are used to encrypt very important documents where found. It seems that those numbers are not always generated using large enough prime numbers. This project aims at factorizing these numbers as fast as possible before the target fixes this bug on their server - so that the encrypted documents can be decoded. 
